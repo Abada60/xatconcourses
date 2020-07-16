@@ -1,6 +1,6 @@
 (function() {
  
-  var deadline = '2021-01-03 15:50';
+  var deadline = '2020-07-20 21:00';
   
   function pad(num, size) {
       var s = "0" + num;
